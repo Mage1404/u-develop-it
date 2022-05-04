@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "inquire": "^0.4.8",
+    "mysql2": "^2.3.3"
+  },
+  "name": "u-develop-it",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mage1404/u-develop-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mage1404/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/Mage1404/u-develop-it#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
